@@ -1,4 +1,4 @@
-# PostgreSQL 19 Beta 2 — Docker to Podman Migration PoC
+# PostgreSQL 19 Beta 2: Docker to Podman Migration
 
 > A hands-on proof-of-concept migrating a live PostgreSQL 19 Beta 2 workload from Docker to Podman, tested three different ways, on WSL2 (Ubuntu 24.04). Every fix and finding below came from actually running this — not from theory.
 
